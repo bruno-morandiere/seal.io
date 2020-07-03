@@ -1,45 +1,10 @@
-# Sources du catalogue Les sculptures de la villa romaine de Chiragan
-Ce dépôt rassemble les sources du catalogue _Les sculptures de la villa romaine de Chiragan_, un livre numérique et imprimé édité par [le musée Saint-Raymond, musée d'Archéologie de Toulouse](https://saintraymond.toulouse.fr/).
+# Les scellés de Balat-‘Ayn ’Asil
+Commencées à la fin des années 70, les fouilles de l'Ifao dans la ville antique de Balat-‘Ayn ’Asil ont mis au jour, en différents points du site, plus de 3000 scellés marqués d'empreintes de sceaux. Quelques dizaines viennent des grandes tombes de la nécropole, mais la plupart ont été trouvées en contexte urbain. Les scellés sont de petites mottes d'argile (appelées crétules dans le domaine mycénien, bullae dans le monde romain) qui étaient appliquées sur les système de fermeture (cordes en général) des objets qu'on voulait fermer de façon sécurisée (portes, coffres, sacs, etc…). Ils datent du dernier quart du 3e mill. av.n.è.. 
+Pour l'instant, seuls deux petits ensembles de scellés trouvés dans la ville ont été publiés au sein de rapports de fouilles. 
+La collection rassemblée dans cette première livraison numérique provient de magasins royaux situés au sud du palais des gouverneurs et compte près de 800 numéros, représentant environ 1500 scellés. 
 
-## Livre numérique : site web
-Le livre numérique, sous forme de site web, est disponible en ligne : [https://villachiragan.saintraymond.toulouse.fr](https://villachiragan.saintraymond.toulouse.fr/)
+Les publications traditionnelles sur papier ne permettant pas de donner une documentation si étendue de façon exhaustive, on a pris le parti d'une publication numérique sous la forme d'une base de données, avec l'intégralité de la documentation photographique réalisée par l'Ifao et conservée dans ses archives. 
 
-## Livre imprimé
-La version imprimée sera publiée début 2020 (date à confirmer).
+Pour l'instant les dossiers photos et dessins de notes sont complets, les dessins de sceaux sont en cours.
 
-## Chaîne éditoriale et système de publication
-Les deux versions du site sont produites à partir d'une même source et par le biais de programmes et logiciels inspirés du domaine du développement web.
-Le système de publication modulaire est fortement inspiré par [Quire](https://gettypubs.github.io/quire/), la chaîne de publication numérique de Getty Publications.
-
-Ce catalogue est la concrétisation des principes présentés dans le mémoire de Master d'Antoine Fauchié, [Vers un système de publication modulaire, éditer avec le numérique](https://memoire.quaternum.net).
-
-## Équipe
-Liste des différentes personnes qui interviennent sur ce projet éditorial (présentation par ordre alphabétique) :
-
-- Laure Barthet : directrice de la publication, conservateur du Patrimoine, directrice du musée Saint-Raymond, musée d’Archéologie de Toulouse ;
-- [Julie Blanc](https://julie-blanc.fr/) : design graphique des versions numérique et imprimée, gestion de projet ;
-- Pascal Capus : responsable des collections de sculptures romaines et numismatiques, musée Saint-Raymond, musée d’Archéologie de Toulouse ;
-- [Antoine Fauchié](https://www.quaternum.net/) : développement du système de publication, gestion de projet ;
-- Christelle Molinié : responsable des ressources documentaires, musée Saint-Raymond, musée d’Archéologie de Toulouse ;
-- équipe du musée Saint-Raymond, musée d'Archéologie de Toulouse.
-
-## Briques logicielles
-Ce catalogue peut être produit grâce à plusieurs logiciels ou programmes, chacun dispose de sa propre licence d'utilisation :
-
-- [Jekyll](https://jekyllrb.com/) : générateur de site statique ;
-- [Jekyll microtypo](https://github.com/borisschapira/jekyll-microtypo/) : plugin Jekyll pour améliorer la microtypographie ;
-- [Jekyll scholar](https://github.com/inukshuk/jekyll-scholar) : plugin Jekyll pour gérer l'affichage des citations bibliographiques et des bibliographies ;
-- [Zotero](https://www.zotero.org/) : logiciel et service en ligne pour gérer les références bibliographiques ;
-- [Better BibTeX](https://retorque.re/zotero-better-bibtex/) : plugin Zotero pour générer les exports des bibliographies ;
-- [Forestry.io](https://forestry.io/) : système de gestion de contenu pour rédiger et organiser les contenus ;
-- [Netlify](https://www.netlify.com/) : service en ligne de déploiement et d'hébergement de site statique ;
-- [GitLab](https://gitlab.com/) : plateforme de dépôt de code et service en ligne de développement et d'intégration continus ;
-- [Sass](https://sass-lang.com/) : préprocesseur CSS pour la génération de feuilles de style en cascade ;
-- [paged.js](https://www.pagedmedia.org/paged-js/) : bibliothèque open source pour paginer des pages web, autrement appelé _polyfill_.
-
-
-## Signalement de problèmes avec le site web
-Deux options pour signaler un problème :
-
-- ouvrir une _issue_ sur GitLab, pour cela un compte GitLab est nécessaire : [ouvrir une nouvelle issue](https://gitlab.com/musee-saint-raymond/villa-chiragan/issues/new) ;
-- écrire à [Antoine Fauchié](mailto:antoine@quaternum.net).
+Progressivement, les collections antérieures, y compris celles déjà publiées sous forme papier, pourront être versées dans la base, toujours en lien avec les archives de l'Ifao. On pourrait aussi connecter à la base (dans une autre table ?) les plans des bâtiments permettant de localiser les US citées dans le temps et dans la chronologie.
